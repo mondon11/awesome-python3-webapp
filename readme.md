@@ -1,2 +1,2 @@
 liaoxuefeng's lession
-master version
+branch conflict solved
